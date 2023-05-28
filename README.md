@@ -1,5 +1,7 @@
 # Lab 8 - Starter
 
+Jiapei Chen
+
 (1) 
 
 I would select "2. Manually run them locally before pushing code". The reason I select this option is I want to make sure the code I push to github is validated. If there is some problem with Github action, the code I push to my repository may not be tested. I want to test my code each time I push my work to my repository so that I can find bugs and potential design flaws easily and fast.
